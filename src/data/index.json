@@ -1,0 +1,23 @@
+{
+  
+  "portfolio": [
+    {
+      "id": "1",
+      "title": "MySQL-TRACKER",
+      "description": "This Project was SQL focus, Its a Emplyee tracker Database, View more my Github",
+      "link": "https://github.com/ShiftoSnag/SQL-Tracker"
+    },
+    {
+      "id": "2",
+      "title": "Filmethica",
+      "description": "This was my very first group project, We bulit a Front end Heavy HTML and CSS movie review and search engine",
+      "link": "https://adamhansen184.github.io/filmetheca/"
+    },
+    {
+      "id": "3",
+      "title": "AdgendaX",
+      "description": "This was my second group project, We made a event manager with a user login, and the ability to show what events users hace created, more in the link below",
+      "link": "https://github.com/gymbridger/AgendaX"
+    }
+  ]
+}
